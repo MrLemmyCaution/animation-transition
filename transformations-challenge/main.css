@@ -1,5 +1,6 @@
 img {
 	margin: 100px;
+	transition-property: transform;
    transition-duration: 1s;
    transition-timing-function: ease-in;
  
